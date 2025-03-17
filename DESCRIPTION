@@ -56,14 +56,14 @@ Suggests:
     interp,
     knitr,
     plotly,
-    quarto,
+    quarto (>= 1.4.4.9004),
     rmarkdown,
     testthat (>= 3.0.0),
     tidyr,
     viridis,
     viridisLite
 VignetteBuilder: quarto
-Remotes: quarto=quarto-dev/quarto-r@libpaths
+Remotes: quarto=quarto-dev/quarto-r#228
 URL: https://permaverse.github.io/flipr/, https://github.com/permaverse/flipr/
 BugReports: https://github.com/permaverse/flipr/issues/
 Depends: 
