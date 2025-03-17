@@ -63,6 +63,7 @@ Suggests:
     viridis,
     viridisLite
 VignetteBuilder: quarto
+Remotes: quarto=quarto-dev/quarto-r@libpaths
 URL: https://permaverse.github.io/flipr/, https://github.com/permaverse/flipr/
 BugReports: https://github.com/permaverse/flipr/issues/
 Depends: 
